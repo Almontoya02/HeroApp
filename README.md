@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-Proyecto de heroes en react
+Proyecto de heroes en react con data local
