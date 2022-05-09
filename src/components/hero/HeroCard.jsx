@@ -7,7 +7,7 @@ export const HeroCard = ({
     publisher
 }) => {
 
-  const imagePath = `assets/${id}.jpg`
+  const imagePath = `https://almontoya02.github.io/HeroApp/assets/${id}.jpg`
   return (
     <div className='col'>
       <Link to={`/hero/${id}`}>
